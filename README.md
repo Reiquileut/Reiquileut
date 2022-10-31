@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oi! Eu sou o Thiago Sotero
+
+Graduando em Ciência da Computação
+
+
+
+
 
 <!--
 **Reiquileut/Reiquileut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
