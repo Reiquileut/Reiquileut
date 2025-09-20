@@ -1,9 +1,9 @@
 # Hi there, I'm Thiago Sotero do Prado 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=thiagosotero&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/thiagosotero?label=Follow&style=social)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/thiagosotero/thiagosotero?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/thiagosotero/thiagosotero?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Reiquileut&color=blue&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Reiquileut?label=Follow&style=social)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Reiquileut/Reiquileut?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Reiquileut/Reiquileut?style=flat-square)
 
 ## 🎓 About Me
 
@@ -36,11 +36,11 @@ developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagosotero&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reiquileut&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagosotero&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reiquileut&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosotero&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reiquileut&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -72,13 +72,13 @@ A comprehensive platform that combines:
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagosotero&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reiquileut&theme=react-dark&hide_border=true)
 
 ## 🤝 Let's Connect
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagosotero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagosoteroprado)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
@@ -90,6 +90,6 @@ A comprehensive platform that combines:
   
 ### 💭 *"Building the future, one line of code at a time"*
 
-⭐ From [Thiago Sotero do Prado](https://github.com/thiagosotero)
+⭐ From [Thiago Sotero do Prado](https://github.com/Reiquileut)
 
 </div>
